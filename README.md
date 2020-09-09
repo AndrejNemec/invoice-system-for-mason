@@ -1,5 +1,10 @@
 <center><img src="https://laravel.com/img/logotype.min.svg"></center>
 
+Invoice system  
+--
+
+An application that generates invoices
+
 Instalation
 --
 
