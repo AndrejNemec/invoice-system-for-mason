@@ -1,3 +1,5 @@
+<center><img src="https://laravel.com/img/logotype.min.svg"></center>
+
 Instalation
 --
 
